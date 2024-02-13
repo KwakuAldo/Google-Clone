@@ -49,13 +49,29 @@ p {
 }
 
 */
-img {
-    display: block;
-    width: 300px;
+.main {
     margin-top: 100px;
 }
 
-input {
+.logo-img {
+    display: block;
+    width: 300px;
+    margin: 0 auto 20px;
+}
+
+.search {
     display: block;
     width: 400px;
+    margin: 0 auto;
+}
+
+.buttons {
+    display: block;
+    width: 240px;
+    margin: 20px auto;
+}
+
+.footer {
+    margin: 0 auto;
+    width: 140px;
 }
